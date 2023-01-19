@@ -117,6 +117,7 @@
 	background-color: var(--vscode-list-dropBackground);
 }
 .settings-editor > .settings-body .settings-tree-container .setting-item.setting-item-list .setting-list-row.drag-hover * {
+	
 	pointer-events: none;
 }
 
